@@ -1,0 +1,11 @@
+1. Write a menu driven program to implement a basic queue using array with the following operations-
+i. enqueueRear
+ii. dequeueFront
+v. isEmpty
+vi. isFull
+
+2. Write a menu driven program to implement a circular queue using array with the following operations-
+i. enqueueRear
+ii. dequeueFront
+v. isEmpty
+vi. isFull
