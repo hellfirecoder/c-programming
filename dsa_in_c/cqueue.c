@@ -74,7 +74,7 @@ int dequeueFront(queue *q) {
 
 int main() {
     int choice, element, dequeued_val;
-    queue q;
+    queue q;.
     // Initialize front and rear pointers to -1 to indicate an empty queue.
     q.r = -1;
     q.f = -1;
