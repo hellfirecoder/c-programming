@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "SPYNO.C": "cpp"
+        "SPYNO.C": "cpp",
+        "stdlib.h": "c"
     }
 }
