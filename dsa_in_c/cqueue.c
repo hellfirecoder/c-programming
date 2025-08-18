@@ -2,7 +2,7 @@
 // i. enqueueRear
 // ii. dequeueFront
 // v. isEmpty
-// vi. isFull
+// vi. isFull.
 
 #include<stdio.h>
 #include<stdlib.h>
