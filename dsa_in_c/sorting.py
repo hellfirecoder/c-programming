@@ -65,7 +65,6 @@ def main():
     while True:
         data_to_sort = original_list[:] 
 
-        print("\n--- Sorting Algorithm Menu ---")
         print("1. Bubble Sort")
         print("2. Cocktail Shaker Sort")
         print("3. Insertion Sort")
